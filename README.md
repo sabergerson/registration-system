@@ -1,4 +1,4 @@
-# Registration_system
+# registration-system
 Course registration system for admin and students
 
 Admin.java - class for admin user object <br />
